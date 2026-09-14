@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Studio",
+  "description": "Original lifestyle and tech mobile flagship store with interactive product details, image inspection, dynamic delivery location changer, and shopping cart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

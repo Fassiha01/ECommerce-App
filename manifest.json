@@ -1,0 +1,11 @@
+{
+  "name": "Lumina Studio",
+  "short_name": "Lumina Studio",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#0F172A",
+  "description": "Lumina Studio - Minimalist Premium E-Commerce Store",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
